@@ -16,4 +16,7 @@ class PagesController < ApplicationController
   def projects
   end
   
+  def interests
+    
+  end
 end

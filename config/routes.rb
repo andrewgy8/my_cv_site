@@ -8,6 +8,7 @@ Rails.application.routes.draw do
   get 'about'       => 'pages#about'
   get 'contact'     => 'pages#contact'
   get 'show'        => 'pages#show'
+  get 'interests'   => 'pages#interests'
 
 
   # Example of regular route:
